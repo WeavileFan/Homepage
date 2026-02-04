@@ -82,6 +82,11 @@ img:hover {
 }
 .home {
   position:fixed;
-  left:5;
-  top:5;
+  top:25px;
+  left:25px;
+}
+.bboys {
+  position:fixed;
+  top:90px;
+  left:5px;
 }
